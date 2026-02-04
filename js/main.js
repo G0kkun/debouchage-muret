@@ -43,10 +43,10 @@ document.addEventListener('DOMContentLoaded', function() {
     // ===================================
     // 2. CARTE LEAFLET
     // ===================================
-    const VILLE_SLUG = 'colomiers';
-    const VILLE_NOM = 'Colomiers';
-    const GPS_LAT = 43.6107;
-    const GPS_LON = 1.3337;
+    const VILLE_SLUG = 'muret';
+    const VILLE_NOM = 'Muret';
+    const GPS_LAT = 43.4611;
+    const GPS_LON = 1.3267;
     
     const mapElement = document.getElementById(VILLE_SLUG + '-map');
     
